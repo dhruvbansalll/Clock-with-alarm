@@ -89,6 +89,5 @@ wait(Alarm);
 #1000000000;
 STOP_al = 1;
 
- 
  end
 endmodule
