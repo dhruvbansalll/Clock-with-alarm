@@ -34,6 +34,7 @@ function [3:0] mod_10;
  end
 endfunction
 
+ 
 always @(posedge clk_1s or posedge reset )
  begin
  if(reset) begin
